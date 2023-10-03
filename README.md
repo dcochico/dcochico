@@ -1,6 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dcochico.dcochico">
-
----
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header" />
 </div>
@@ -11,6 +8,7 @@
 
 </br>
 <div align="center" >
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dcochico.dcochico">
   <a href="https://github.com/dcochico"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/danielcochicoiii" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href=""><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </div>
 
