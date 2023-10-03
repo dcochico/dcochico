@@ -1,8 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dcochico.dcochico">
+
+---
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header" />
 </div>
-
-# Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dcochico.dcochico">
 
 <div align="center">
   <img src="https://socialify.git.ci/dcochico/dcochico/image?description=1&descriptionEditable=software%20engineer&font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark" alt="dcochico" width="100%" />
