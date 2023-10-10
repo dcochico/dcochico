@@ -85,8 +85,7 @@
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dcochico&theme=react-dark&custom_title=Activity%20Graph&hide_border=true" />
   </div>
- 
-  <a href="https://wakatime.com/@d0706f51-aa7e-4e1a-ae41-f439c0ab0f4d"><div align="center"><img src="https://wakatime.com/badge/user/d0706f51-aa7e-4e1a-ae41-f439c0ab0f4d.svg?style=for-the-badge" alt="Total time coded since Oct 1 2023" /></div></a>
+
 </details>
 
 <details open> 
