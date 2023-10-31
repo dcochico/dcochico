@@ -27,17 +27,17 @@
     },
     technologies: {
       languages: ["TypeScript", "JavaScript", "HTML", "SCSS"],
-      "frameworks-and-libraries": ["React", "React Router", "Express.js", "Knex.js"],
+      "frameworks-and-libraries": ["React", "React Router", "Express.js", "Knex.js", "Three.js", "Tailwind CSS", "Framer"],
       testing: ["Cypress", "CircleCI", "Mocha", "Chai"],
       "databases-and-cloudHosting": ["PostgreSQL", "Heroku", "Render", "Vercel"],
-      "software-and-tools": ["Postman", "pgAdmin", "VS Code"]
+      "software-and-tools": ["Postman", "pgAdmin", "VS Code", "Vite"]
     },
     skills: {
       hard: ["Git", "Responsive Design", "Testing", "Fetch API", "CI/CD", "Accessibility", "Agile Methodology"],
       soft: ["Problem-Solving", "Critical Thinking", "Creativity", "Adaptability", "Collaboration", "Perseverance"]
     },
     hobbies: ["Scuba Diving", "Graphic Design", "Piano", "Guitar", "Basketball", "Gaming", "Chess", "Stand-Up Comedy"],
-    willLearn: ["Python", "Three.js", "Blender", "Tailwind CSS", "GSAP"]
+    willLearn: ["Python", "Blender", "GSAP"]
   }
   ```
 </details>
@@ -56,6 +56,10 @@
    <a href="https://reactrouter.com/en/main" ><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
    <a href="https://expressjs.com/" ><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
    </br>
+   <a href="https://threejs.org/" ><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" /></a>
+   <a href="https://tailwindcss.com/" ><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+   <a href="https://www.framer.com/motion/" ><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" /></a>
+   </br>
    <a href="https://www.cypress.io/" ><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /></a>
    <a href="https://circleci.com/" ><img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" /></a>
    <a href="https://mochajs.org/" ><img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" /></a>
@@ -68,6 +72,7 @@
    <a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
    <a href="https://www.postman.com/" ><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
    <a href="https://code.visualstudio.com/" ><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+   <a href="https://vitejs.dev/" ><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
   </div>
 </details>
 
