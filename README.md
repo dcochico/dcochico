@@ -18,8 +18,8 @@
   ```javascript
   const dcochico = {
     name: "Daniel Cochico",
-    openToWork: true,
-    affiliations: ["Meta", "Milestone Technologies", "Rudolph & Sletten", "Turing School of Software & Design"],
+    openToWork: false,
+    affiliations: ["BetterHelp", "Meta", "Milestone Technologies", "Rudolph & Sletten", "Turing School of Software & Design"],
     education: {
       institutions: ["Connecticut College", "Turing School of Software & Design"],
       degrees: ["B.A. in Economics", "Minor in Mathematics", "Minor in Finance"],
