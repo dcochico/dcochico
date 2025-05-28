@@ -108,8 +108,6 @@
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=dcochico&theme=algolia&column=-1&no-bg=true" />
   </div>
-
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=dcochico&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue' />
 </details>
 
 <div align="center">
